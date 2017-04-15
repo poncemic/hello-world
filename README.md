@@ -1,2 +1,3 @@
 # hello-world
-mi primer repositorio
+Buenas Buenas....
+Mi nombre Miguel Angel Ponce, soy licenciado en Estadistica y me especializo en Salud Publica.
